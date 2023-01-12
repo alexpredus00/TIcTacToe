@@ -1,4 +1,4 @@
-# TIcTacToe
+# Tic-Tac-Toe
 
 A website where you can play Tic-Tac-Toe against an AI. Made with the objective of practicing factory patterns and module patterns in Javascript.  
 
