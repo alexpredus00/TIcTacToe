@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-A website where you can play Tic-Tac-Toe against a bot. The first person (or robot) to win 3 rounds wins the game.
+A website where you can show off your Tic-Tac-Toe skills against a bot. The first person (or robot) to win 3 rounds wins the game.
 
 Made with the objective of practicing factory patterns and module patterns in Javascript. 
 
