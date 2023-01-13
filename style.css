@@ -23,7 +23,7 @@
     font-size: 4rem;
     text-align: center;
     margin-top: 10vh;
-    margin-left: 10vh;
+    margin-left: 12vh;
 }
 
 .score2 {
@@ -31,7 +31,7 @@
     font-size: 4rem;
     text-align: center;
     margin-top: 10vh;
-    margin-right: 10vh;
+    margin-right: 8vh;
 }
 
 
@@ -104,6 +104,10 @@
     user-select: none;
 }
 
+.box:hover{
+    background-color: #243448;
+}
+
 .player1{ 
     margin-left: 40%;
     margin-right: 20%;
@@ -113,12 +117,14 @@
     width: 285px;
     height: auto;
     margin-bottom: 3vh;
+    user-select: none;
 }
 
 .player1 p{
     text-align: center;
     color: white;
     font-size: 3vh;
+    user-select: none;
 }
 
 .player2{ 
@@ -130,10 +136,12 @@
     width: 285px;
     height: auto;
     margin-bottom: 3vh;
+    user-select: none;
 }
 
 .player2 p{
     text-align: center;
     color: white;
     font-size: 3vh;
+    user-select: none;
 }
